@@ -4,7 +4,7 @@ a Web Developer & IT Consultant.
 I build websites, provide advice, and sell digital products.
 I have 5 years of tech experience, creating solutions while providing IT services.**
 
-**Some awesome websites that I have built:**
+**Some awesome websites that I have designed and built:**
 
 **[Edanamar](https://edanamar.com/) <br>
 [305 Threads](https://305threads.com/) <br>
