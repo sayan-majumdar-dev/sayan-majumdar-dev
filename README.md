@@ -7,6 +7,7 @@ I have 5 years of tech experience, creating solutions while providing IT service
 **Some awesome websites that I have designed and built:**
 
 **[Edanamar](https://edanamar.com/) <br>
+[Misfire.me](https://misfire.me/) <br>
 [305 Threads](https://305threads.com/) <br>
 [FPV Solar](https://fpvsolar.com/) <br>
 [ESG Recruit](https://esgrecruit.com/) <br>
