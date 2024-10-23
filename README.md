@@ -2,18 +2,15 @@
 I'm Sayan Majumdar
 a Web Developer & IT Consultant.
 I build websites, provide advice, and sell digital products.
-I have 5 years of tech experience, creating solutions while providing IT services.**
+I have 10 years of tech experience, creating solutions while providing IT services.**
 
 **Some awesome websites that I have designed and built:**
 
 **[Edanamar](https://edanamar.com/) <br>
 [Misfire.me](https://misfire.me/) <br>
-[305 Threads](https://305threads.com/) <br>
-[FPV Solar](https://fpvsolar.com/) <br>
-[ESG Recruit](https://esgrecruit.com/) <br>
+[Dextera Capital](https://dexteracapital.co/) <br>
 [Spirit Foundation](https://spiritfoundation.in/) <br>
 [Recovery Centered Living](https://www.recoverycenteredliving.com/) <br>
-[Patriot Dock Maintenance](https://www.patriotdockmaintenance.com/) <br>
 [The Lighthouse Bangalore](https://www.thelighthousebangalore.org/) <br>
 [Metal Recovery Services](https://www.metalrecoveryservices.com/) <br>
 [Core Canine Concepts](https://www.corecanineconcepts.com/) <br>**
