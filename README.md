@@ -9,6 +9,7 @@ I have 10 years of tech experience, creating solutions while providing IT servic
 **[Edanamar](https://edanamar.com/) <br>
 [Misfire.me](https://misfire.me/) <br>
 [Dextera Capital](https://dexteracapital.co/) <br>
+[Noveha](https://noveha.com/) <br>
 [Spirit Foundation](https://spiritfoundation.in/) <br>
 [Recovery Centered Living](https://www.recoverycenteredliving.com/) <br>
 [The Lighthouse Bangalore](https://www.thelighthousebangalore.org/) <br>
