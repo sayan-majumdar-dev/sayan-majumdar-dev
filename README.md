@@ -10,10 +10,12 @@ I have 10 years of tech experience, creating solutions while providing IT servic
 [Misfire.me](https://misfire.me/) <br>
 [Dextera Capital](https://dexteracapital.co/) <br>
 [Noveha](https://noveha.com/) <br>
+[Reckless Metals](https://recklessmetals.com/) <br>
+[RedCliffs Range](https://redcliffsrange.com/) <br>
+[OSO](https://osogoodoliveoil.com/) <br>
 [Spirit Foundation](https://spiritfoundation.in/) <br>
 [Recovery Centered Living](https://www.recoverycenteredliving.com/) <br>
 [The Lighthouse Bangalore](https://www.thelighthousebangalore.org/) <br>
-[Metal Recovery Services](https://www.metalrecoveryservices.com/) <br>
 [Core Canine Concepts](https://www.corecanineconcepts.com/) <br>**
 
 **Custom web-based application:**
