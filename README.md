@@ -8,7 +8,7 @@ Apart from client work, I love teaching and sharing knowledge. He regularly shar
 
 Sayan is also the founder of [![Zigboxx Studios](https://img.shields.io/badge/zigboxx_studios-blue?style=for-the-badge)](https://zigboxxstudios.com)
 
-**Check what his Clients say about his work:** (https://img.shields.io/badge/Video-red?style=for-the-badge)](https://www.youtube.com/watch?v=tDqHJaqfkp4)
+**Check what his Clients say about his work:** [![Video](https://img.shields.io/badge/Video-red?style=for-the-badge)](https://www.youtube.com/watch?v=tDqHJaqfkp4)
 
 
 **Custom web-based application:**
