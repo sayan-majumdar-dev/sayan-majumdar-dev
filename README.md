@@ -6,7 +6,7 @@ I'm also actively involved in the open-source world, contributing to the WordPre
 
 Apart from client work, I love teaching and sharing knowledge. I regularly post coding and web Tech tips on platforms like LinkedIn and YouTube, covering topics in WordPress, JavaScript, jQuery, PHP, Mysql, and API integrations.
 
-Sayan is also the founder of [(https://img.shields.io/badge/zigboxx_studios-blue?style=for-the-badge)](https://zigboxxstudios.com)
+Sayan is also the founder of [![Zigboxx Studios](https://img.shields.io/badge/zigboxx_studios-blue?style=for-the-badge)](https://zigboxxstudios.com)
 
 **Some awesome websites that I have designed and built:**
 
