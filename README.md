@@ -2,13 +2,13 @@
 
 Sayan is a passionate Full-Stack WordPress Developer and a proud contributor to the WordPress community. With years of experience building custom themes, plugins, and API integrations, he specialises in delivering pixel-perfect, high-performance websites using WordPress, PHP, JavaScript (ES6/jQuery), Elementor, and modern front-end frameworks.
 
-I'm also actively involved in the open-source world, contributing to the WordPress Core, organizing local events, and participating in community meetups.
+He is also actively involved in the open-source world, contributing to the WordPress Core, organizing local events, and participating in community meetups.
 
-Apart from client work, I love teaching and sharing knowledge. I regularly post coding and web Tech tips on platforms like LinkedIn and YouTube, covering topics in WordPress, JavaScript, jQuery, PHP, Mysql, and API integrations.
+Apart from client work, I love teaching and sharing knowledge. He regularly shares insights and tips on a variety of topics in the digital marketing and web development world — from WordPress, JavaScript, and API integrations to SEO, PPC, and everything in between.
 
 Sayan is also the founder of [![Zigboxx Studios](https://img.shields.io/badge/zigboxx_studios-blue?style=for-the-badge)](https://zigboxxstudios.com)
 
-**Some awesome websites that I have designed and built:**
+**Check what his Clients say about his work:** (https://img.shields.io/badge/Video-red?style=for-the-badge)](https://www.youtube.com/watch?v=tDqHJaqfkp4)
 
 
 **Custom web-based application:**
